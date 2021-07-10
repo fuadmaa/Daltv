@@ -8,3 +8,5 @@ https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
 https://gintna100.tulix.tv/gin_live/somaliland/bb145f7fad1916c17e544797df6a60e1/60ead524/index.m3u8
 # Djibouti
 https://gintna100.tulix.tv/gin_live/rtddjibouti/c6192141a56a19ea11219eee46c8acdf/60ead5c7/index.m3u8
+# BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
