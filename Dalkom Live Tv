@@ -1,4 +1,4 @@
-#EXTM3U
+#####################################Somalia###############################################
 #EXTINF:-1 tvg-id="HornCableTV.so" tvg-name="Horn Cable TV" tvg-country="SO" tvg-language="Somali" tvg-logo="https://i.imgur.com/71UKcdB.png" group-title="",Horn Cable TV [Not 24/7]
 http://cdn.mediavisionuae.com:1935/live/hctvlive.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="KalsanTV.so" tvg-name="Kalsan TV" tvg-country="SO" tvg-language="Somali" tvg-logo="http://kalsantv.com/wp-content/uploads/2017/11/new-size.png" group-title="",Kalsan TV
@@ -55,3 +55,22 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf50009
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8
 #EXTINF:-1 tvg-id="QatarTV2.qa" tvg-name="Qatar TV 2" tvg-country="QA" tvg-language="" tvg-logo="" group-title="",Qatar TV 2 (720p)
 https://qtv-i.akamaihd.net/hls/live/1020532/QTV2/master.m3u8
+############################################################### Saudi Arabia ##########################################################
+#EXTINF:-1 tvg-id="AhluAlQuranTV.sa" tvg-name="Ahlu Al Quran TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://www.ahlu.tv/uploads/logo.png" group-title="Religious",Ahlu Al Quran TV (720p)
+https://5b18be6964c2f.streamlock.net/m/ngrp:ahul_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlKhalij.sa" tvg-name="Al Khalij" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" group-title="General",Al Khalij (1080p)
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+#EXTINF:-1 tvg-id="AlKhalijTV.sa" tvg-name="Al Khalij TV" tvg-country="SA" tvg-language="" tvg-logo="" group-title="",Al Khalij TV
+http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Religious",Al Quran Al Kareem TV (Mecca) (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+#EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-name="Al Saudiya" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="General",Al Saudiya (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="Religious",Al Sunnah Al Nabawiyah TV (Medina) (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="Al-Resalah" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/resala.png" group-title="Religious",Al-Resalah (1080p) [Geo-blocked]
+https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
+#EXTINF:-1 tvg-id="IqraaEurope.sa" tvg-name="Iqraa Europe" tvg-country="SA" tvg-language="" tvg-logo="" group-title="",Iqraa Europe
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:-1 tvg-id="MakkahTV.sa" tvg-name="Makkah TV" tvg-country="SA" tvg-language="" tvg-logo="" group-title="",Makkah TV
+https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist_w2097348824.m3u8?v=2957056943
